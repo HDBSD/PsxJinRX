@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/314/trunk/psxjin/Win32/libpng
+END
+pngmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/314/trunk/psxjin/Win32/libpng/pngmem.c
+END
+pngtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/314/trunk/psxjin/Win32/libpng/pngtest.c
+END
+png.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/314/trunk/psxjin/Win32/libpng/png.c
+END
+pngget.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/314/trunk/psxjin/Win32/libpng/pngget.c
+END
+pnggccrd.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/314/trunk/psxjin/Win32/libpng/pnggccrd.c
+END
+png.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/314/trunk/psxjin/Win32/libpng/png.h
+END
+pngrtran.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/314/trunk/psxjin/Win32/libpng/pngrtran.c
+END
+pngtrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/314/trunk/psxjin/Win32/libpng/pngtrans.c
+END
+pngerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/314/trunk/psxjin/Win32/libpng/pngerror.c
+END
+pngrio.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/314/trunk/psxjin/Win32/libpng/pngrio.c
+END
+pngconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/314/trunk/psxjin/Win32/libpng/pngconf.h
+END
+pngwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/314/trunk/psxjin/Win32/libpng/pngwrite.c
+END
+pngpread.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/314/trunk/psxjin/Win32/libpng/pngpread.c
+END
+libpng-2008-x32.lib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/314/trunk/psxjin/Win32/libpng/libpng-2008-x32.lib
+END
+pngwtran.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/314/trunk/psxjin/Win32/libpng/pngwtran.c
+END
+pngset.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/314/trunk/psxjin/Win32/libpng/pngset.c
+END
+pngwio.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/314/trunk/psxjin/Win32/libpng/pngwio.c
+END
+pngvcrd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/314/trunk/psxjin/Win32/libpng/pngvcrd.c
+END
+pngrutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/314/trunk/psxjin/Win32/libpng/pngrutil.c
+END
+pngwutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/314/trunk/psxjin/Win32/libpng/pngwutil.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/314/trunk/psxjin/Win32/libpng/README
+END
+pngread.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/314/trunk/psxjin/Win32/libpng/pngread.c
+END

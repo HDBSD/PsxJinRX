@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/314/trunk/psxjin/Win32/zlib
+END
+inftrees.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/314/trunk/psxjin/Win32/zlib/inftrees.c
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/314/trunk/psxjin/Win32/zlib/crc32.h
+END
+trees.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/314/trunk/psxjin/Win32/zlib/trees.c
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/314/trunk/psxjin/Win32/zlib/inflate.c
+END
+uncompr.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/314/trunk/psxjin/Win32/zlib/uncompr.c
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/314/trunk/psxjin/Win32/zlib/zconf.h
+END
+inftrees.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/314/trunk/psxjin/Win32/zlib/inftrees.h
+END
+zlib-2008-x32.lib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/314/trunk/psxjin/Win32/zlib/zlib-2008-x32.lib
+END
+trees.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/314/trunk/psxjin/Win32/zlib/trees.h
+END
+inflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/314/trunk/psxjin/Win32/zlib/inflate.h
+END
+inffast.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/314/trunk/psxjin/Win32/zlib/inffast.c
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/314/trunk/psxjin/Win32/zlib/compress.c
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/314/trunk/psxjin/Win32/zlib/adler32.c
+END
+infback.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/314/trunk/psxjin/Win32/zlib/infback.c
+END
+inffast.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/314/trunk/psxjin/Win32/zlib/inffast.h
+END
+inffixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/314/trunk/psxjin/Win32/zlib/inffixed.h
+END
+deflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/314/trunk/psxjin/Win32/zlib/deflate.c
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/314/trunk/psxjin/Win32/zlib/zlib.h
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/314/trunk/psxjin/Win32/zlib/zutil.c
+END
+gzio.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/314/trunk/psxjin/Win32/zlib/gzio.c
+END
+deflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/314/trunk/psxjin/Win32/zlib/deflate.h
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/314/trunk/psxjin/Win32/zlib/crc32.c
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/314/trunk/psxjin/Win32/zlib/zutil.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/314/trunk/psxjin/Win32/zlib/README
+END

@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/726/trunk/psxjin/Win32
+END
+maphkeys.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/628/trunk/psxjin/Win32/maphkeys.cpp
+END
+nasmw.exe
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/314/trunk/psxjin/Win32/nasmw.exe
+END
+psxjin.sln
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/422/trunk/psxjin/Win32/psxjin.sln
+END
+padwin.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/712/trunk/psxjin/Win32/padwin.h
+END
+psxjin.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/721/trunk/psxjin/Win32/psxjin.vcproj
+END
+WndMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/726/trunk/psxjin/Win32/WndMain.cpp
+END
+moviewin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/702/trunk/psxjin/Win32/moviewin.cpp
+END
+zip.exe
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/334/trunk/psxjin/Win32/zip.exe
+END
+AboutDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/478/trunk/psxjin/Win32/AboutDlg.cpp
+END
+analog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/603/trunk/psxjin/Win32/analog.cpp
+END
+MakeRelease.bat
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/513/trunk/psxjin/Win32/MakeRelease.bat
+END
+psxjin.ico
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/604/trunk/psxjin/Win32/psxjin.ico
+END
+Plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/683/trunk/psxjin/Win32/Plugin.h
+END
+luaconsole.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/494/trunk/psxjin/Win32/luaconsole.cpp
+END
+ram_search.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/678/trunk/psxjin/Win32/ram_search.cpp
+END
+Win32.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/689/trunk/psxjin/Win32/Win32.h
+END
+cueparse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/675/trunk/psxjin/Win32/cueparse.cpp
+END
+recentmenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/520/trunk/psxjin/Win32/recentmenu.h
+END
+afxres.rc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/314/trunk/psxjin/Win32/afxres.rc
+END
+CWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/314/trunk/psxjin/Win32/CWindow.cpp
+END
+ramwatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/314/trunk/psxjin/Win32/ramwatch.h
+END
+memView.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/314/trunk/psxjin/Win32/memView.h
+END
+padwin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/714/trunk/psxjin/Win32/padwin.cpp
+END
+ConfigurePlugins.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/703/trunk/psxjin/Win32/ConfigurePlugins.cpp
+END
+memcheat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/462/trunk/psxjin/Win32/memcheat.cpp
+END
+maphkeys.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/628/trunk/psxjin/Win32/maphkeys.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/696/trunk/psxjin/Win32/resource.h
+END
+afxres.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/314/trunk/psxjin/Win32/afxres.h
+END
+psxjin.rc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/703/trunk/psxjin/Win32/psxjin.rc
+END
+Plugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/683/trunk/psxjin/Win32/Plugin.cpp
+END
+Cdrom02.ico
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/314/trunk/psxjin/Win32/Cdrom02.ico
+END
+moviewin.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/583/trunk/psxjin/Win32/moviewin.h
+END
+psxjin_x86.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/314/trunk/psxjin/Win32/psxjin_x86.manifest
+END
+recentmenu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/520/trunk/psxjin/Win32/recentmenu.cpp
+END
+ramwatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/595/trunk/psxjin/Win32/ramwatch.cpp
+END
+analog.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/576/trunk/psxjin/Win32/analog.h
+END
+AboutDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/478/trunk/psxjin/Win32/AboutDlg.h
+END
+memView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/314/trunk/psxjin/Win32/memView.cpp
+END
+ram_search.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/314/trunk/psxjin/Win32/ram_search.h
+END
+upx.exe
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/314/trunk/psxjin/Win32/upx.exe
+END
+cueparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/674/trunk/psxjin/Win32/cueparse.h
+END
+CWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/314/trunk/psxjin/Win32/CWindow.h
+END
