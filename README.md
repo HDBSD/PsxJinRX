@@ -1,10 +1,17 @@
 # PsxJinRX
 Fork of PsxJin with seem quality of life updates
 
+[Download](https://github.com/HDBSD/PsxJinRX/releases/)
+
+# Why
+
+Allthough this emulator is fairly old, a few speedruns require its use. This fork intends to update the experience of the emulator to bring it upto modern standards
+
 # Requirements
 
 Use of input viewer now requires the installation of an additional font - [Link](https://www.fonts4free.net/playstation-buttons-font.html)
-I plan to address this in a later build of the emulator.
+
+This is planned to address this in a later build of the emulator.
 
 # Improvements
 
