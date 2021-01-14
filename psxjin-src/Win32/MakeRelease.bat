@@ -8,6 +8,7 @@ cd ..\win32
 GOTO end
 
 :UPXFailed
+pause
 CLS
 echo.
 echo PSXJIN.EXE is either compiling or running.

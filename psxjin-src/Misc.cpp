@@ -41,17 +41,21 @@ FILE *emuLog;
 int Log = 0;
 
 char *LabelAuthors = { N_(
-	"PSXjin a open source rerecording PlayStation emulator\n based on a the PCSX core\n\n"
-	"http://code.google.com/p/psxjin/\n"
-	"http://tasvideos.org/\n"
+	"PSXjinRX is an open source PlayStation emulator\n based on a the PSXjin Emulator\n\n"
+	"PSXjinRX - https://github.com/HDBSD/PsxJinRX"
+	"PSXjin   - http://code.google.com/p/psxjin/\n"
+	"TasVideo - http://tasvideos.org/\n"
 };
 
 char *LabelGreets = { N_(
-	"PSXjin was written by:\n"
-	"PCSX coders: linuzappz, shadow\n"
-	"main TAS coders: zeromus, adelikat\n"
-	"extra coders: DarkKobold\n"
-	"Tester: arukAdo"))
+	"PSXjinRX is maintained by:\n"
+	"HDBSD and francodml\n"
+	"PSXjin was originally written by:\n"
+	"linuzappz and shadow\n"
+	"TAS elements by:\n"
+	"zeromus and adelikat\n"
+	"QOL fixes by: DarkKobold\n"
+	))
 };
 
 

@@ -89,6 +89,7 @@ extern char modeFlags;
 
 #ifdef _WINDOWS
 HFONT hGFont=NULL;
+HFONT IDFont=NULL;
 HFONT StatusFont=NULL;
 BOOL bTransparent=FALSE;
 #endif
@@ -105,6 +106,16 @@ void InitMenu(void)
 	         //"Courier New");
 	         //"MS Sans Serif");
 	         "Arial");
+
+	IDFont=CreateFont(//-8,
+	         13,0,0,0,FW_NORMAL,FALSE,FALSE,FALSE,
+	         ANSI_CHARSET,OUT_DEFAULT_PRECIS,
+	         CLIP_DEFAULT_PRECIS,DEFAULT_QUALITY,
+	         DEFAULT_PITCH,
+	         //"Courier New");
+	         //"MS Sans Serif");
+	         "Playstation Buttons");
+
 #endif
 }
 
@@ -166,6 +177,9 @@ void DisplayText(void)                                 // DISPLAY TEXT
 void DisplayFrames(void)
 {
 #ifdef _WINDOWS
+	
+	
+
 	HDC hdc;
 	HFONT hFO;
 
@@ -243,9 +257,9 @@ void DisplayInput(short P1, short P2)
 	HDC hdc;
 	HFONT hFO;	
 	IDirectDrawSurface_GetDC(DX.DDSRender,&hdc);
-	hFO=(HFONT)SelectObject(hdc,hGFont);
+	hFO=(HFONT)SelectObject(hdc,IDFont);
 
-	SetTextColor(hdc,RGB(0,255,0));
+	SetTextColor(hdc,RGB(0,0,255));
 	if (bTransparent)
 		SetBkMode(hdc,TRANSPARENT);
 	else SetBkColor(hdc,RGB(0,0,0));
@@ -376,42 +390,42 @@ void BuildDispMenu(int iInc)
 		}
 	}
 	
-	cCurrentInput[0] = currentInput&0x80?' ':'<';
-	cCurrentInput[1] = currentInput&0x10?' ':'^';
-	cCurrentInput[2] = currentInput&0x20?' ':'>';
-	cCurrentInput[3] = currentInput&0x40?' ':'v';
-	cCurrentInput[4] = currentInput&0x8?' ':'S';
-	cCurrentInput[5] = currentInput&0x1?' ':'s';
-	cCurrentInput[6] = currentInput&0x8000?' ':19;
+	cCurrentInput[0] = currentInput&0x80?' ':'2';
+	cCurrentInput[1] = currentInput&0x10?' ':'3';
+	cCurrentInput[2] = currentInput&0x20?' ':'1';
+	cCurrentInput[3] = currentInput&0x40?' ':'4';
+	cCurrentInput[4] = currentInput&0x8?' ':'a';
+	cCurrentInput[5] = currentInput&0x1?' ':'b';
+	cCurrentInput[6] = currentInput&0x8000?' ':'S';
 	cCurrentInput[7] = currentInput&0x4000?' ':'X';
-	cCurrentInput[8] = currentInput&0x2000?' ':'O';
+	cCurrentInput[8] = currentInput&0x2000?' ':'C';
 	cCurrentInput[9] = currentInput&0x1000?' ':'T';
-	cCurrentInput[10] = currentInput&0x400?' ':'L'; //l1
-	cCurrentInput[11] = currentInput&0x400?' ':'1'; //l1
-	cCurrentInput[12] = currentInput&0x800?' ':'R'; //r1
-	cCurrentInput[13] = currentInput&0x800?' ':'1'; //r1
+	cCurrentInput[10] = currentInput&0x400?' ':'l'; //l1
+	cCurrentInput[11] = currentInput&0x400?' ':' '; //l1
+	cCurrentInput[12] = currentInput&0x800?' ':'r'; //r1
+	cCurrentInput[13] = currentInput&0x800?' ':' '; //r1
 	cCurrentInput[14] = currentInput&0x100?' ':'L'; //l2
-	cCurrentInput[15] = currentInput&0x100?' ':'2'; //l2
+	cCurrentInput[15] = currentInput&0x100?' ':' '; //l2
 	cCurrentInput[16] = currentInput&0x200?' ':'R'; //r2
 	cCurrentInput[17] = currentInput&0x200?' ':'2'; //r2
-	cCurrentInput[18] = currentInput&0x800000?' ':'<';
-	cCurrentInput[19] = currentInput&0x100000?' ':'^';
-	cCurrentInput[20] = currentInput&0x200000?' ':'>';
-	cCurrentInput[21] = currentInput&0x400000?' ':'v';
-	cCurrentInput[22] = currentInput&0x80000?' ':'S';
-	cCurrentInput[23] = currentInput&0x10000?' ':'s';
-	cCurrentInput[24] = currentInput&0x80000000?' ':19;
+	cCurrentInput[18] = currentInput&0x800000?' ':'2';
+	cCurrentInput[19] = currentInput&0x100000?' ':'3';
+	cCurrentInput[20] = currentInput&0x200000?' ':'1';
+	cCurrentInput[21] = currentInput&0x400000?' ':'4';
+	cCurrentInput[22] = currentInput&0x80000?' ':'a';
+	cCurrentInput[23] = currentInput&0x10000?' ':'b';
+	cCurrentInput[24] = currentInput&0x80000000?' ':'S';
 	cCurrentInput[25] = currentInput&0x40000000?' ':'X';
-	cCurrentInput[26] = currentInput&0x20000000?' ':'O';
+	cCurrentInput[26] = currentInput&0x20000000?' ':'C';
 	cCurrentInput[27] = currentInput&0x10000000?' ':'T';
-	cCurrentInput[28] = currentInput&0x4000000?' ':'L'; //l1
-	cCurrentInput[29] = currentInput&0x4000000?' ':'1'; //l1
-	cCurrentInput[30] = currentInput&0x8000000?' ':'R'; //r1
-	cCurrentInput[31] = currentInput&0x8000000?' ':'1'; //r1
+	cCurrentInput[28] = currentInput&0x4000000?' ':'l'; //l1
+	cCurrentInput[29] = currentInput&0x4000000?' ':' '; //l1
+	cCurrentInput[30] = currentInput&0x8000000?' ':'r'; //r1
+	cCurrentInput[31] = currentInput&0x8000000?' ':' '; //r1
 	cCurrentInput[32] = currentInput&0x1000000?' ':'L'; //l2
-	cCurrentInput[33] = currentInput&0x1000000?' ':'2'; //l2
+	cCurrentInput[33] = currentInput&0x1000000?' ':' '; //l2
 	cCurrentInput[34] = currentInput&0x2000000?' ':'R'; //r2
-	cCurrentInput[35] = currentInput&0x2000000?' ':'2'; //r2
+	cCurrentInput[35] = currentInput&0x2000000?' ':' '; //r2
     memcpy(szInputBuf,cCurrentInput,36);
 	if (dwCoreFlags&1)  szMenuBuf[23]  = 'A';
 	if (dwCoreFlags&2)  szMenuBuf[23]  = 'M';

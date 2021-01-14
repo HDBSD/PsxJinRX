@@ -2,7 +2,7 @@
 <VisualStudioProject
 	ProjectType="Visual C++"
 	Version="9.00"
-	Name="psxjin"
+	Name="psxjinRX"
 	ProjectGUID="{66893A12-B867-4F74-B698-38DB297CDDA5}"
 	RootNamespace="pcsx"
 	TargetFrameworkVersion="131072"
@@ -160,7 +160,7 @@
 				EnableFiberSafeOptimizations="true"
 				WholeProgramOptimization="true"
 				AdditionalIncludeDirectories="..;.;./includes;&quot;lua/lua-5.1.4/src&quot;;zlib;libpng;userconfig;defaultconfig;libbzip2;directx"
-				PreprocessorDefinitions="_WINDOWS;WIN32;_WIN32;NDEBUG;__WIN32__;_MSC_VER_;PCSX_VERSION=\&quot;1.5\&quot;;__i386__;ENABLE_NLS;PACKAGE=\&quot;psxjin\&quot;;NOMINMAX;NOCONSOLE"
+				PreprocessorDefinitions="_WINDOWS;WIN32;_WIN32;NDEBUG;__WIN32__;_MSC_VER_;PCSX_VERSION=\&quot;1.5\&quot;;__i386__;ENABLE_NLS;PACKAGE=\&quot;psxjinrx\&quot;;NOMINMAX;NOCONSOLE"
 				StringPooling="true"
 				RuntimeLibrary="0"
 				StructMemberAlignment="5"
@@ -1281,7 +1281,15 @@
 			>
 		</File>
 		<File
+			RelativePath=".\font1.bin"
+			>
+		</File>
+		<File
 			RelativePath="..\gpu\res\gpu.bmp"
+			>
+		</File>
+		<File
+			RelativePath=".\PLAYB___.TTF"
 			>
 		</File>
 		<File
